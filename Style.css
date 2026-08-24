@@ -772,3 +772,86 @@ footer p {
         margin: 12px 5px;
     }
 }
+.friend-farmer {
+max-width: 1000px;
+margin: 50px auto;
+padding: 30px;
+font-family: Arial, sans-serif;
+background: #f1f8e9;
+border-radius: 20px;
+}
+
+.friend-farmer h2 {
+text-align: center;
+font-size: 36px;
+color: #2e7d32;
+margin-bottom: 20px;
+}
+
+.intro {
+text-align: center;
+font-size: 20px;
+line-height: 1.7;
+color: #444;
+margin-bottom: 30px;
+}
+
+.farmer-card {
+background: white;
+padding: 25px;
+margin: 20px 0;
+border-radius: 15px;
+box-shadow: 0 4px 12px rgba(0,0,0,0.10);
+border-left: 6px solid #4caf50;
+}
+
+.farmer-card h3 {
+color: #2e7d32;
+font-size: 24px;
+margin-top: 0;
+}
+
+.farmer-card p {
+color: #444;
+font-size: 17px;
+line-height: 1.8;
+}
+
+.steps {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap: 10px;
+margin-top: 20px;
+padding: 15px;
+background: #e8f5e9;
+border-radius: 12px;
+color: #1b5e20;
+font-weight: bold;
+}
+
+.message-box {
+text-align: center;
+margin-top: 30px;
+padding: 30px;
+background: #2e7d32;
+color: white;
+border-radius: 18px;
+}
+
+.message-box h3 {
+font-size: 28px;
+margin-top: 0;
+}
+
+.message-box p {
+font-size: 18px;
+line-height: 1.7;
+}
+
+.message-box .final-line {
+font-size: 21px;
+font-weight: bold;
+margin-top: 20px;
+}
